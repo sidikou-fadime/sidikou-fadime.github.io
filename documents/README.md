@@ -5,4 +5,4 @@ Ce dossier contient les documents du portfolio :
 - Certificats Data Analyst
 - Certificat Marketing Digital
 - Certificat Animateur en Nutrition Communautaire
-- Autre certificat 
+- Autres certificats
