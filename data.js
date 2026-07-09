@@ -166,7 +166,7 @@ var CERTIFICATIONS = [
     dateFr: "Mai 2026",
     dateEn: "May 2026",
     category: "Data Analyst",
-    file: "documents/datacamp-data-analyst.pdf",
+    file: "https://drive.google.com/drive/folders/1jTY1w5_sdX0CnqTUN7GXkPrAsblLaitZ",
     thumb: ""
   },
   {
