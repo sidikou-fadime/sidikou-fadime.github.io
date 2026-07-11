@@ -1,7 +1,7 @@
 # Analyse Socio-Économique et Standardisation des Salaires en Afrique de l'Ouest
 
 ## 📌 Présentation du Projet
-Ce projet consiste en une analyse exploratoire des données (EDA) portant sur 16 pays de l'Afrique de l'Ouest. L'objectif principal était de nettoyer des données brutes hétérogènes extraites des rapports de la **Banque Mondiale (2024-2025)**, de standardiser les salaires minimums locaux en une devise unique (USD) pour permettre une comparaison juste, et d'étudier leurs corrélations avec des indicateurs démographiques et économiques majeurs (Population, Superficie, Inflation, Espérance de vie).
+Ce projet consiste en une analyse exploratoire des données (EDA) portant sur les 16 pays de l'Afrique de l'Ouest. L'objectif principal était de nettoyer des données brutes hétérogènes extraites des rapports de la **Banque Mondiale (2024-2025)**, de standardiser les salaires minimums locaux en une devise unique (USD) pour permettre une comparaison juste, et d'étudier leurs corrélations avec des indicateurs démographiques et économiques majeurs (Population, Superficie, Inflation, Espérance de vie).
 
 ## 🛠️ Compétences et Outils Utilisés
 - **Langage :** Python 3
