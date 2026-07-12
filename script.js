@@ -141,11 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var filterBar = document.getElementById('cert-filters');
     if (!filterBar) return;
     var cats = getCertCategories();
-    var html = '<button class="cert-filter-btn' + (activeCatFilter === 'all' ? ' active' : '') + '" data-cat="all">' + ALL_LABEL[lang] + '</button>';
-    cats.forEach(function (cat) {
-      var label = CATEGORY_LABELS[cat] ? CATEGORY_LABELS[cat][lang] : cat;
-      html += '<button class="cert-filter-btn' + (activeCatFilter === cat ? ' active' : '') + '" data-cat="' + cat + '">' + label + '</button>';
-    });
+    var html = '<button class="cert-filter-btn' + (activeCatFilter === 'all' ? ' active' : '') + '" data-cat="all">' + (lang === 'en' ? 'Certificates' : 'Certificats') + '</button>';
     filterBar.innerHTML = html;
     filterBar.querySelectorAll('.cert-filter-btn').forEach(function (btn) {
       btn.addEventListener('click', function () {
@@ -189,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function observeNewReveals(root) {
     var els = root.querySelectorAll('.reveal:not(.visible)');
-    if ('IntersectionObserver' in window && io) {
+    if ('IntersectionObserver' in window) {
       els.forEach(function (el) { io.observe(el); });
     } else {
       els.forEach(function (el) { el.classList.add('visible'); });
