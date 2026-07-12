@@ -165,7 +165,7 @@ var CERTIFICATIONS = [
     org: "DataCamp — iSheero (Python, SQL, R, Power BI, ML, visualisation)",
     dateFr: "Mai 2026",
     dateEn: "May 2026",
-    category: "Data Analyst",
+    category: "certificats",
     file: "https://drive.google.com/drive/folders/1jTY1w5_sdX0CnqTUN7GXkPrAsblLaitZ",
     thumb: ""
   },
@@ -175,7 +175,7 @@ var CERTIFICATIONS = [
     org: "ABED Academy (planification, collecte, analyse, reporting)",
     dateFr: "2026 — en cours",
     dateEn: "2026 — in progress",
-    category: "MEAL",
+    category: "certificats",
     file: "documents/abed-suivi-evaluation.pdf",
     thumb: ""
   },
@@ -185,7 +185,7 @@ var CERTIFICATIONS = [
     org: "Force N Sénégal / Univ. Cheikh Hamidou Kane (SEO, e-réputation, KPI, A/B testing)",
     dateFr: "2026",
     dateEn: "2026",
-    category: "Autres",
+    category: "certificats",
     file: "documents/marketing-digital.pdf",
     thumb: ""
   },
@@ -195,7 +195,7 @@ var CERTIFICATIONS = [
     org: "ABED Academy",
     dateFr: "Fév.–Avr. 2026",
     dateEn: "Feb.–Apr. 2026",
-    category: "Autres",
+    category: "certificats",
     file: "documents/nutrition-communautaire.pdf",
     thumb: ""
   },
@@ -203,9 +203,9 @@ var CERTIFICATIONS = [
     nameFr: "Informatique et Internet",
     nameEn: "Computing and Internet",
     org: "Force N Sénégal / Univ. Cheikh Hamidou Kane",
-    dateFr: "2026",
-    dateEn: "2026",
-    category: "Informatique",
+    dateFr: "Juin. 2026",
+    dateEn: "June. 2026",
+    category: "certificats",
     file: "documents/informatique-internet.pdf",
     thumb: ""
   },
@@ -215,7 +215,7 @@ var CERTIFICATIONS = [
     org: "Centre Anglais Rapidement, Cotonou",
     dateFr: "Oct. 2025",
     dateEn: "Oct. 2025",
-    category: "Langues",
+    category: "certificats",
     file: "documents/anglais-professionnel.pdf",
     thumb: ""
   },
@@ -225,7 +225,7 @@ var CERTIFICATIONS = [
     org: "Programme VNU · OMS Bénin",
     dateFr: "Juin 2026",
     dateEn: "June 2026",
-    category: "UNV",
+    category: "certificats",
     file: "documents/vnu-oms-benin.pdf",
     thumb: ""
   },
@@ -235,7 +235,7 @@ var CERTIFICATIONS = [
     org: "Programme VNU · UNICEF / UNFPA / OMS — Niger",
     dateFr: "Mai–Juin 2026",
     dateEn: "May–June 2026",
-    category: "UNV",
+    category: "certificats",
     file: "documents/vnu-niger.pdf",
     thumb: ""
   }
