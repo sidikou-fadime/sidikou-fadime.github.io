@@ -238,10 +238,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     'about.title': 'About',
     'about.p1': 'Sociologist-anthropologist by training, I work at the crossroads of social research, communication, digital mobilization, community development, and monitoring and evaluation, acquired through development projects.',
-    'about.p2': 'Originally from the commune of Sinendé in Northern Benin, I speak Bariba as my native language and have notions of Dendi and Fon. A concrete asset for building trust in both Northern and Southern Benin, where community trust is also forged through local languages.',
+    'about.p2': 'Originally from the commune of Sinendé in Northern Benin, i speak Bariba as my native language and have notions of Dendi and Fon. A concrete asset for building trust in both Northern and Southern Benin, where community trust is also forged through local languages.',
     'about.p3': 'Today, I am complementing this field experience with Data Analyst training (Python, SQL, R, Power BI) and a specialization in monitoring and evaluation, aiming to transition into hybrid data / MEAL and digital communication roles.',
     'about.fact.birth.k': 'Born',
-    'about.fact.based.k': 'Based in',
+    'about.fact.based.k': 'Living in',
     'about.fact.education.k': 'Education',
     'about.fact.education.v': 'BA Sociology-Anthropology, UP (2020–2024)',
     'about.fact.path.k': 'Track',
@@ -319,7 +319,7 @@ document.addEventListener('DOMContentLoaded', function () {
      
     'github.title': 'Portfolio of projects ',
     'github.intro': 'A space reserved for upcoming Python, SQL and Power BI projects.',
-    'gh1.tag': 'Python', 'gh1.title': 'Data analysis project', 'gh1.text': 'In progress — link coming soon.',
+    'gh1.tag': 'Python', 'gh1.title': 'Socio-Economic Analysis of West Africa countries', 'gh1.text': 'Complete.',
     'gh2.tag': 'SQL', 'gh2.title': 'Database querying project', 'gh2.text': 'In progress — link coming soon.',
     'gh3.tag': 'Power BI', 'gh3.title': 'Dashboard / visualization project', 'gh3.text': 'Planned — link coming soon.',
     'github.link': 'Link to come',
