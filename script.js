@@ -237,9 +237,9 @@ document.addEventListener('DOMContentLoaded', function () {
     'hero.photo.note': 'To be added: documents/photo-profil.jpg',
 
     'about.title': 'About',
-    'about.p1': 'Trained as a sociologist-anthropologist, I work at the intersection of social research, community development and monitoring & evaluation, gained through rural development projects in northern and central Benin.',
-    'about.p2': 'I am originally from Sinendé, in northern Benin, where Bariba is my native language and I also have working knowledge of Dendi — a concrete asset for projects run in that region, where community trust is also built in the local language.',
-    'about.p3': 'I am now building on this field foundation with a Data Analyst training (Python, SQL, R, Power BI) and a specialization in monitoring & evaluation, aiming for hybrid data / MEAL roles within UN agencies and international NGOs.',
+    'about.p1': 'Sociologist-anthropologist by training, I work at the crossroads of social research, communication, digital mobilization, community development, and monitoring and evaluation, acquired through development projects.',
+    'about.p2': 'Originally from the commune of Sinendé in Northern Benin, I speak Bariba as my native language and have notions of Dendi and Fon. A concrete asset for building trust in both Northern and Southern Benin, where community trust is also forged through local languages.',
+    'about.p3': 'Today, I am complementing this field experience with Data Analyst training (Python, SQL, R, Power BI) and a specialization in monitoring and evaluation, aiming to transition into hybrid data / MEAL and digital communication roles.',
     'about.fact.birth.k': 'Born',
     'about.fact.based.k': 'Based in',
     'about.fact.education.k': 'Education',
@@ -316,28 +316,9 @@ document.addEventListener('DOMContentLoaded', function () {
     'obj.tag4': 'Social development',
     'obj.tag5': 'MEAL',
     'obj.tag6': 'Data for Development',
-
-    'projects.title': 'Projects',
-    'proj1.tag': 'Rural development',
-    'proj1.title': 'Field databases — Parakou & Bembèrèkè',
-    'proj1.status': 'Completed',
-    'proj1.context.k': 'Context', 'proj1.context.v': 'Rural development project with TMG Research (Germany), within ONG Homme et Développement.',
-    'proj1.objectives.k': 'Objectives', 'proj1.objectives.v': 'Reliable field data collection and individualized monitoring of beneficiaries.',
-    'proj1.methods.k': 'Methods', 'proj1.methods.v': 'ODK, KoboCollect and SurveyCTO tools; data cleaning and quality control; community accountability mechanisms.',
-    'proj1.results.k': 'Results', 'proj1.results.v': '150+ direct beneficiaries monitored on the ground.',
-    'proj1.skills.k': 'Skills used', 'proj1.skills.v': 'Data collection, database management, community facilitation, reporting.',
-
-    'proj2.tag': 'Data Analyst',
-    'proj2.title': 'Data project portfolio (Python & SQL)',
-    'proj2.status': 'In progress',
-    'proj2.context.k': 'Context', 'proj2.context.v': 'Personal projects built as part of the DataCamp Data Analyst training.',
-    'proj2.objectives.k': 'Objectives', 'proj2.objectives.v': 'Build a first public portfolio of data projects.',
-    'proj2.methods.k': 'Methods', 'proj2.methods.v': 'Python (data analysis) and SQL (querying); one database already built.',
-    'proj2.results.k': 'Results', 'proj2.results.v': 'To be completed once the projects are published.',
-    'proj2.skills.k': 'Skills used', 'proj2.skills.v': 'Python, SQL, data cleaning and analysis.',
-
-    'github.title': 'Data projects (GitHub)',
-    'github.intro': 'A space reserved for upcoming Python, SQL and Power BI projects, to be published progressively.',
+     
+    'github.title': 'Portfolio of projects ',
+    'github.intro': 'A space reserved for upcoming Python, SQL and Power BI projects.',
     'gh1.tag': 'Python', 'gh1.title': 'Data analysis project', 'gh1.text': 'In progress — link coming soon.',
     'gh2.tag': 'SQL', 'gh2.title': 'Database querying project', 'gh2.text': 'In progress — link coming soon.',
     'gh3.tag': 'Power BI', 'gh3.title': 'Dashboard / visualization project', 'gh3.text': 'Planned — link coming soon.',
@@ -352,7 +333,6 @@ document.addEventListener('DOMContentLoaded', function () {
     'contact.facebook.k': 'Facebook',
     'contact.facebook.v': 'View my profile',
     'contact.location.k': 'Location',
-    'contact.availability': 'Available quickly for a mission or a position',
 
     'footer.rights': '© 2026 Fadime Sidikou'
   };
